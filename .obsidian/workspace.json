@@ -11,11 +11,28 @@
             "id": "a63678fd915d9f5e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GED Language Arts/Facts && Opinions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f43bbd1448c45d6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -147,13 +168,14 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "2da58d9c4138be6d",
+  "active": "f43bbd1448c45d6c",
   "lastOpenFiles": [
+    "GED Language Arts/Facts && Opinions.md",
+    "About Obsidian_to_anki.md",
     "_sample/Sample_Note2.md",
     "_sample/_sample_image.png",
     "Screenshot from 2023-01-28 17-04-06 1.png",
     "Screenshot from 2023-01-28 17-04-06.png",
-    "About Obsidian_to_anki.md",
     "GED Social Studies/Fact or Opinion.md",
     "2023-01-28.md",
     "Untitled.canvas"

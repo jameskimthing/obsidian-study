@@ -52,10 +52,7 @@
     }
   },
   "Added Media": [],
-  "File Hashes": {
-    "_sample/Sample_Note2.md": "d41d8cd98f00b204e9800998ecf8427e",
-    "_sample/About Obsidian_to_anki.md": "9b746bbf4cd51149e431da87668421e6"
-  },
+  "File Hashes": {},
   "fields_dict": {
     "Basic": [
       "Front",
