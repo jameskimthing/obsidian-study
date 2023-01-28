@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "37744fdc90addecd",
+    "type": "split",
+    "children": [
+      {
+        "id": "9aa2464fe1965561",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a63678fd915d9f5e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "25ade29c657a327b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e1d3053c4fc13c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2da58d9c4138be6d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e376f86f1b293c9d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "beb068c4fc1346bb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a7646fe5beb7d16c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a60eafc24d1991ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2de50f07456170e1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6999051c89e18677",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "569768b17ad2f2d0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bd21a56999332b4d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "4640be7b9067564e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
+    }
+  },
+  "active": "2da58d9c4138be6d",
+  "lastOpenFiles": [
+    "_sample/Sample_Note2.md",
+    "_sample/_sample_image.png",
+    "Screenshot from 2023-01-28 17-04-06 1.png",
+    "Screenshot from 2023-01-28 17-04-06.png",
+    "About Obsidian_to_anki.md",
+    "GED Social Studies/Fact or Opinion.md",
+    "2023-01-28.md",
+    "Untitled.canvas"
+  ]
+}

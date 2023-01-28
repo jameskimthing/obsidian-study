@@ -1,0 +1,82 @@
+{
+  "settings": {
+    "CUSTOM_REGEXPS": {
+      "Basic": "",
+      "Basic (and reversed card)": "",
+      "Basic (optional reversed card) with deck name and tags": "",
+      "Basic_AWS": "",
+      "Cloze": ""
+    },
+    "FILE_LINK_FIELDS": {
+      "Basic": "Front",
+      "Basic (and reversed card)": "Front",
+      "Basic (optional reversed card) with deck name and tags": "Front",
+      "Basic_AWS": "Front",
+      "Cloze": "Text"
+    },
+    "CONTEXT_FIELDS": {},
+    "FOLDER_DECKS": {
+      "GED Social Studies": "",
+      "SAT": "",
+      "GED Language Arts": "",
+      "GED Science": "",
+      "_sample": ""
+    },
+    "FOLDER_TAGS": {
+      "GED Social Studies": "",
+      "SAT": "",
+      "GED Language Arts": "",
+      "GED Science": "",
+      "_sample": ""
+    },
+    "Syntax": {
+      "Begin Note": "START",
+      "End Note": "END",
+      "Begin Inline Note": "STARTI",
+      "End Inline Note": "ENDI",
+      "Target Deck Line": "TARGET DECK",
+      "File Tags Line": "FILE TAGS",
+      "Delete Note Line": "DELETE",
+      "Frozen Fields Line": "FROZEN"
+    },
+    "Defaults": {
+      "Tag": "Obsidian_to_Anki",
+      "Deck": "Default",
+      "Scheduling Interval": 0,
+      "Add File Link": false,
+      "Add Context": false,
+      "CurlyCloze": true,
+      "CurlyCloze - Highlights to Clozes": false,
+      "ID Comments": true,
+      "Add Obsidian Tags": false
+    }
+  },
+  "Added Media": [],
+  "File Hashes": {
+    "_sample/Sample_Note2.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "_sample/About Obsidian_to_anki.md": "9b746bbf4cd51149e431da87668421e6"
+  },
+  "fields_dict": {
+    "Basic": [
+      "Front",
+      "Back"
+    ],
+    "Basic (and reversed card)": [
+      "Front",
+      "Back"
+    ],
+    "Basic (optional reversed card) with deck name and tags": [
+      "Front",
+      "Back",
+      "Add Reverse"
+    ],
+    "Basic_AWS": [
+      "Front",
+      "Back"
+    ],
+    "Cloze": [
+      "Text",
+      "Back Extra"
+    ]
+  }
+}
